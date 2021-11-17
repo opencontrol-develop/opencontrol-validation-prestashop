@@ -9,7 +9,7 @@ Herramienta de análisis de fraude de OpenControl para Prestashop
 3. Una vez hecho el paso anterior, dar click en el botón **Subir un modulo**.
 4. La anterior acción abrirá un panel donde se le solicitará el archivo previamente descargado en el **paso 1**, dar click en **Seleccionar archivo** y localizar el archivo .zip.
 5. Prestashop comenzará la instalación del plugin, una vez finalizada la instalación dar click en el botón **Configurar**.
-   ![Add-new-plugin.png](https://img.openpay.mx/plugins/opencontrol_prestashop_add_new_plugin_01.gif)
+   ![Add-new-plugin.png](https://img.openpay.mx/plugins/opencontrol/opencontrol_prestashop_add_new_plugin_01.gif)
 
 ## Actualización
 En caso de ya contar con el módulo instalado y sea necesario actualizar, seguir los mismos pasos para la instalación, descargando el archivo .zip más actualizado.
@@ -18,18 +18,18 @@ En caso de ya contar con el módulo instalado y sea necesario actualizar, seguir
 ### 1. Configuración del módulo
 
 Para configurar el módulo desde el panel de administrador de módulos de Prestashop busque el módulo: Opencontrol bajo la sección otros.
-![Start_config.png](https://img.openpay.mx/plugins/opencontrol_prestashop_startConfig.png)
+![Start_config.png](https://img.openpay.mx/plugins/opencontrol/opencontrol_prestashop_startConfig.png)
 
 #### Características
 - Análisis de transacciones mediante tarjetas crédito/débito.
 - Selección de modo entre **Sandbox** y **Producción**.
-  ![Configuration.png](https://img.openpay.mx/plugins/opencontrol_prestashop_configuration.png)
+  ![Configuration.png](https://img.openpay.mx/plugins/opencontrol/opencontrol_prestashop_configuration.png)
   
 
 - Estatus personalizados en las órdenes analizadas por OpenControl.
     - **Denegado por OpenControl**
     - **Aprobado por OpenControl**
-      ![Status.png](https://img.openpay.mx/plugins/opencontrol_prestashop_status.png)
+      ![Status.png](https://img.openpay.mx/plugins/opencontrol/opencontrol_prestashop_status.png)
 
 #### Notas
 *Para hacer uso de este módulo ponerse en contacto con soporte@openpay.mx*
