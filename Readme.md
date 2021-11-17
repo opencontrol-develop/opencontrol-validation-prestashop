@@ -1,4 +1,4 @@
-# OpenControl-Validation-WooCommerce
+# OpenControl-Validation-Prestashop
 
 Herramienta de análisis de fraude de OpenControl para Prestashop
 
