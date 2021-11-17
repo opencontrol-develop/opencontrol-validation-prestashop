@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>opencontrol</name>
+    <displayName><![CDATA[OpenControl]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[OpenControl es una herramienta para la prevenci&oacute;n de fraudes en cargos a tarjetas, enfocada en aumentar el n&uacute;mero de transacciones seguras, reducir contracargos, reducir el porcentaje de cargos rechazados que son leg&iacute;timos, as&iacute; como reducir y/o eliminar las revisiones manuales. A trav&eacute;s de una serie de reglas se valida si una transacci&oacute;n es fraudulenta o leg&iacute;tima en cuesti&oacute;n de milisegundos, haciendo este proceso casi imperceptible para sus clientes.]]></description>
+    <author><![CDATA[Openpay S.A. de C.V.]]></author>
+    <tab><![CDATA[payment_security]]></tab>
+	<confirmUninstall><![CDATA[Esta seguro de que desea desinstalar OpenControl?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
